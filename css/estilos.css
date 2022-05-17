@@ -1,8 +1,13 @@
 body {
-    color: red;
+    color: white;
     font-size: 32px;
     text-align: center;
 }
 h2 {
-    color: aqua;
+    color: white;
+}
+header {
+    width: 100%;
+    height: 200px;
+    background-color: brown;
 }
